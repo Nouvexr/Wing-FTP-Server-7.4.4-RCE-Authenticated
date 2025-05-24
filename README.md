@@ -17,6 +17,7 @@ Additionally, it can be noted that until the same date, there is a release note 
 ![image](https://github.com/user-attachments/assets/f35ef4d9-fd4a-4a5f-ab50-d1b9bf5bb3b3)
 
 Wing FTP Server Web Interface
+
 ![image](https://github.com/user-attachments/assets/36426432-9ba6-4f00-8599-2dd9dffc876b)
 
 ![image](https://github.com/user-attachments/assets/9b316062-448d-45f5-8988-c98bbf950ce0)
