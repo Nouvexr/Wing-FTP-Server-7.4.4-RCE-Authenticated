@@ -1,4 +1,4 @@
-# Wing FTP Server 7.4.4 - Remote Code Execution (Authenticated)
+# Wing FTP Server 7.4.4 - Remote Code Execution (Authenticated) (CVE-2025-5196)
 Wing FTP Server provides an administrative Lua scripting console accessible via its web interface. Authenticated administrators are able to execute arbitrary Lua code with insufficient sandboxing.
 
 Affected Version: Wing FTP Server 7.4.4 (Windows) | Authentication Required: Yes
@@ -14,6 +14,7 @@ Additionally, it can be noted that until the same date, there is a release note 
 ---
 
 # PoC
+PoC related to CVE-2025-5196 [VulDB](https://vuldb.com/?id.310279)
 ![image](https://github.com/user-attachments/assets/f35ef4d9-fd4a-4a5f-ab50-d1b9bf5bb3b3)
 
 Wing FTP Server Web Interface
